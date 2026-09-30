@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>AIHOT daily example</title>
+<item><title>Daily issue 1</title><link>https://example.org/daily/2026-09-28</link><description>Source-linked example</description><pubDate>Mon, 28 Sep 2026 08:00:00 GMT</pubDate></item>
+<item><title>Daily issue 2</title><link>https://example.org/daily/2026-09-29</link><description>Another example</description><pubDate>Tue, 29 Sep 2026 08:00:00 GMT</pubDate></item>
+<item><title>Prior week</title><link>https://example.org/daily/2026-09-27</link><pubDate>Sun, 27 Sep 2026 08:00:00 GMT</pubDate></item>
+</channel></rss>
